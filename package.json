@@ -1,0 +1,14 @@
+{
+  "name": "4tune",
+  "version": "0.0.0",
+  "description": "",
+  "author": "Anio Software <info@anio.software>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4tune-org/4tune.git"
+  },
+  "exports": {
+    ".": "./src/index.mjs"
+  }
+}
